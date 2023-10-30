@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'python-webapp-quickstart-1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EBEB4B2B20EC46B186985E6ABBED7717 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D6DB90DF9B6547B7BC72A616DBCD66F1 }}
